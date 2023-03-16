@@ -1,0 +1,4 @@
+import 'package:supabase/supabase.dart';
+
+final supabaseCleint=SupabaseClient(  "https://vwcmygvjzcpqgvrarsmx.supabase.co",   
+ "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ3Y215Z3ZqemNwcWd2cmFyc214Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzczMTY0NjQsImV4cCI6MTk5Mjg5MjQ2NH0.iy90skWPBjuKjrAoy1_7fcogmiCN2MbLoymbqhQP0O4");
